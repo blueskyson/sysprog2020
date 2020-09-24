@@ -16,7 +16,7 @@ $ ./quiz1
 
 ## extended2.c
 
-Rewrite `swap_pair` and `reverse` into calling by reference
+Rewrite `swap_pair` and `reverse` into calling by indirect pointer
 
 ```
 $ gcc extended2.c -o extended2
